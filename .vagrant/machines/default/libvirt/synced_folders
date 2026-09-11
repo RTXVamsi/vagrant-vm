@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"disabled":false,"guestpath":"/vagrant","hostpath":"/home/aiml_323103382064/devops-lab/vagrant-vm","type":"rsync","__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
